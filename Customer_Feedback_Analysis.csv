@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Gender,Age,Region,Product_Category,Product_Name,Quantity,Unit Price,Purchase_Date,Payement_Method,Rating(1-5),Customer_Feedback
+C001,Aarav Sharma,Male,27,North,Laptop,Dell Inspiron 15,2,55000,01-Sep-2025,Debit Card,5,Excellent Product
+C002,Priya Verma,Female,32,South,Mobile,Oneplus 11,3,55000,01-Sep-2025,Credit Card,4,Very Satisfied
+C003,Rohit Nair,Male,41,South,Headphones,Boat Rockez 550,1,20000,01-Sep-2025,Cash,4,Works Perfectly
+C004,Kavya Iyer,Female,24,East,Smartwatch,Samsung Galaxy Watch 6,2,35000,01-Sep-2025,UPI,5,Excellent Product
+C005,Manish Reddy,Male,35,North,Laptop,MacBook Air M2,1,120000,01-Sep-2025,UPI,5,Excellent Product
+C006,Neha Mishra,Female,29,West,Mobile,Vivo V27,2,30000,01-Sep-2025,Net Banking,4,As Expected
+C007,Aditya Choudhary,Male,30,North,Mobile,Redmi Note 12 Pro,1,15000,02-Sep-2025,Cash,4,Works Perfectly
+C008,Sneha Pillai,Female,26,East,Headphones,Sony WH-1000XM4,1,25000,02-Sep-2025,UPI,5,Excellent Product
+C009,Rajesh Bansal,Male,45,West,Smartwatch,Apple Watch Series 8,2,45000,02-Sep-2025,UPI,5,Great Product
+C010,Divya Singh,Female,34,South,Accessories,HP Keyboard,3,1200,03-Sep-2025,Cash,3,Could be better
+C011,Suresh Mondal,Male,39,South,Accessories,SanDisk 128GB Pendrive,4,800,03-Sep-2025,Cash,3,Average Quality
+C012,Anjali Singh,Female,28,East,Headphones,JBL Tune 760NC,1,5000,03-Sep-2025,Cash,,
+C013,Arjun Das,Male,23,West,Laptop,ASUS ROG Strix,1,150000,03-Sep-2025,Debit Card,4,Works Perfectly
+C014,Meena Dutta,Female,42,South,Mobile,iphone 15,1,80000,03-Sep-2025,UPI,5,Excellent Product
+C015,Varun Ghosh,Male,37,North,Smartwatch,Amazfit GTS 4,2,7000,03-Sep-2025,UPI,3,Not Satisfied
+C016,Shreya Jadav,Female,25,North,Laptop,Lenovo Thinkpad,1,60000,03-Sep-2025,Debit Card,5,Works Perfectly
+C017,Kiran Malhotra,Male,33,South,Mobile,iphone 15,1,80000,04-Sep-2025,Credit Card,4,Great Quality
+C018,Pooja Nayek,Female,31,East,Smartwatch,Noise ColorFit Pro,2,5000,04-Sep-2025,UPI,3,As expected
+C019,Harish Shetty,Male,40,West,Accessories,Dell Monitor,2,18000,04-Sep-2025,UPI,,
+C020,Ritu Agarwal,Female,27,East,Headphones,Bose QC 45,1,23000,05-Sep-2025,UPI,,
+C021,Deepak Sinha,Male,29,West,Accessories,HP Keyboard,2,1200,05-Sep-2025,Cash,,
+C022,Aishwarya Yadav,Female,24,South,Laptop,Acer Aspire,1,45000,05-Sep-2025,UPI,5,Excellent Product
+C023,Vivek Joshi,Male,36,North,Headphones,Boat Rockez 550,1,20000,05-Sep-2025,Cash,4,Very Satisfied
+C024,Komal Mehta,Female,30,South,Smartwatch,Apple Watch Series 8,1,45000,05-Sep-2025,Wallet,5,Highly Recommend
+C025,Sanjay Thakur,Male,38,East,Mobile,Vivo V27,2,30000,05-Sep-2025,Debit Card,,
+C026,Sunita Rao,Female,35,East,Laptop,ASUS ROG Strix,1,150000,05-Sep-2025,Credit Card,,
+C027,Naveen Ghosh,Male,26,West,Mobile,Oneplus 11,1,55000,05-Sep-2025,UPI,4,Great Quality
+C028,Radhika Biswas,Female,28,West,Smartwatch,Noise ColorFit Pro,2,5000,06-Sep-2025,UPI,3,Decent
+C029,Abhishek Sen,Male,34,South,Laptop,Dell Inspiron 15,2,55000,06-Sep-2025,Cash,5,Excellent Product
+C030,Priyanka Kapoor,Female,33,West,Headphones,JBL Tune 760NC,2,5000,06-Sep-2025,Cash,,
+C031,Mohan Mondal,Male,43,East,Accessories,Logitech Mouse,3,1500,06-Sep-2025,Cash,,
+C032,Swati Bhatia,Female,29,South,Laptop,MacBook Air M2,1,120000,06-Sep-2025,UPI,,
+C033,Gopal Das,Male,40,North,Accessories,SanDisk 128GB Pendrive,3,800,06-Sep-2025,Cash,4,Works Fine
+C034,Nisha Bhowmik,Female,27,North,Laptop,Lenovo Thinkpad,2,60000,07-Sep-2025,UPI,5,Excellent Product
+C035,Ashok Banerjee,Male,44,South,Headphones,Bose QC 45,3,23000,07-Sep-2025,UPI,5,Highly Recommend
+C036,Aparna Maity,Female,32,East,Laptop,ASUS ROG Strix,1,150000,08-Sep-2025,Debit Card,,
+C037,Aman Prasad,Male,25,West,Mobile,iphone 15,2,80000,08-Sep-2025,Debit Card,4,Great Quality
+C038,Prakash Singh,Male,41,West,Accessories,HP Keyboard,2,1200,08-Sep-2025,UPI,3,Decent
+C039,Jyoti Reddy,Female,36,East,Smartwatch,Apple Watch Series 8,2,45000,08-Sep-2025,UPI,5,Excellent Product
+C040,Vikas Dolai,Male,26,South,Headphones,Sony WH-1000XM4,2,25000,08-Sep-2025,UPI,4,Very Satisfied
+C041,Shruti Nair,Female,39,South,Laptop,MacBook Air M2,1,120000,08-Sep-2025,Debit Card,,
+C042,Mohit Gupta,Male,31,East,Mobile,Redmi Note 12 Pro,2,15000,09-Sep-2025,UPI,4,Great
+C043,Seema Halder,Female,28,North,Mobile,Oppo Reno 10,2,28000,09-Sep-2025,Debit Card,5,Highly Recommended
+C044,Rajiv Poddar,Male,34,West,Accessories,Dell Monitor,1,18000,10-Sep-2025,Cash,,
+C045,Poonam Thakur,Female,42,East,Smartwatch,Noise ColorFit Pro,3,5000,10-Sep-2025,Cash,,
+C046,Dinesh Iyer,Male,30,North,Laptop,Acer Aspire,1,45000,11-Sep-2025,UPI,,
+C047,Smita Joshi,Female,37,South,Mobile,iphone 15,2,80000,11-Sep-2025,Debit Card,5,Excellent Product
+C048,Karthik Das,Male,29,North,Accessories,Logitech Mouse,2,1500,11-Sep-2025,Cash,,
+C049,Rekha Sharma,Female,35,East,Smartwatch,Samsung Galaxy Watch 6,1,35000,11-Sep-2025,UPI,,
+C050,Hemant Patil,Male,33,West,Headphones,JBL Tune 760NC,2,5000,12-Sep-2025,UPI,3,Average Product
+C051,Geeta Sarkar,Female,38,East,Laptop,Dell Inspiron 15,1,55000,12-Sep-2025,Wallet,,
+C052,Ajay Gorai,Male,40,North,Mobile,oneplus 11,1,55000,13-Sep-2025,Wallet,,
+C053,Sakshi Sengupta,Female,27,North,Smartwatch,Samsung Galaxy Watch 6,1,35000,14-Sep-2025,Cash,,
+C054,Tarun Naskar,Male,25,South,Laptop,ASUS ROG Strix,1,150000,14-Sep-2025,Debit Card,5,Excellent Product
+C055,Neelam Dutta,Female,32,East,Laptop,HP Pavilion,1,50000,15-Sep-2025,UPI,,
+C056,Sankar Dasgupta,Male,36,South,Smartwatch,Amazfit GTS 4,1,70000,16-Sep-2025,Debit Card,,
+C057,Anita Paul,Female,41,North,Mobile,Vivo V27,2,30000,16-Sep-2025,Credit Card,,
+C058,Ramesh Jha,Male,30,East,Headphones,Boat Rockez 550,1,20000,17-Sep-2025,Cash,,
+C059,Malini Jana,Female,44,West,Accessories,SanDisk 128GB Pendrive,3,800,17-Sep-2025,Cash,,
+C060,Anil Kapoor,Male,39,North,Mobile,oneplus 11,1,55000,17-Sep-2025,Debit Card,,
+C061,Kusum Kaur,Female,43,North,Laptop,Dell Inspiron 15,1,55000,18-Sep-2025,Debit Card,,
+C062,Suraj Bhat,Male,29,South,Smartwatch,Apple Watch Series 8,1,45000,19-Sep-2025,UPI,4,Good Quality
+C063,Alka Sharma,Female,31,South,Mobile,Redmi Note 12 Pro,2,15000,20-Sep-2025,UPI,3,Average Performance
+C064,Omprakash Yadav,Male,35,East,Accessories,Seagate 1TB HDD,3,4500,20-Sep-2025,UPI,3,Not Satisfied
+C065,Mukesh Pandey,Male,46,East,Laptop,Acer Aspire,1,45000,21-Sep-2025,UPI,5,Excellent Product
+C066,Sonali Dutta,Female,38,West,Mobile,Oppo Reno 10,2,28000,21-Sep-2025,UPI,5,Great Product
+C067,Harpal Gill,Male,40,South,Laptop,ASUS ROG Strix,1,150000,21-Sep-2025,Debit Card,,
+C068,Anupam Chatterjee,Male,28,North,Mobile,Oneplus 11,2,55000,21-Sep-2025,Debit Card,,
+C069,Tanvi Nayek,Female,34,North,Accessories,HP Keyboard,3,1200,21-Sep-2025,Cash,,
+C070,Ashwin Shil,Male,33,West,Smartwatch,Apple Watch Series 8,1,45000,21-Sep-2025,Cash,,
+C071,Preeti Naskar,Female,39,North,Laptop,MacBook Air M2,1,120000,22-Sep-2025,Debit Card,5,Highly Recommended
+C072,Govind Prasad,Male,27,South,Mobile,Vivo V27,2,30000,22-Sep-2025,UPI,,
+C073,Charu Jana,Female,29,East,Accessories,Seagate 1TB HDD,2,4500,22-Sep-2025,UPI,4,Expected Better
+C074,Jitendra Sadhukhan,Male,26,West,Laptop,Dell Inspiron 15,1,55000,23-Sep-2025,UPI,5,Good Quality
+C075,Kalpana Singh,Female,37,North,Mobile,iphone 15,2,80000,23-Sep-2025,Debit Card,,
+C076,Siddharth Dey,Male,31,South,Headphones,Bose QC 45,2,23000,23-Sep-2025,UPI,4,As Expected
+C077,Bhavna Saha,Female,35,North,Laptop,ASUS ROG Strix,1,150000,23-Sep-2025,Debit Card,,
+C078,Lalit Karmakar,Male,32,East,Mobile,Oneplus 11,2,55000,23-Sep-2025,Debit Card,4,Works Well
+C079,Srijan Majumdar,Male,28,North,Accessories,SanDisk 128GB Pendrive,2,800,24-Sep-2025,Cash,,
+C080,Rini Sutradhar,Female,42,West,Laptop,MacBook Air M2,1,120000,24-Sep-2025,Credit Card,,
+C081,Madhu Sharma,Male,34,West,Smartwatch,Samsung Galaxy Watch 6,2,35000,25-Sep-2025,Debit Card,5,Good Quality
+C082,Vijay Mallik,Male,39,East,Smartwatch,Amazfit GTS 4,1,7000,25-Sep-2025,Cash,5,Great Product
+C083,Savita Nair,Female,36,South,Mobile,Redmi Note 12 Pro,2,15000,25-Sep-2025,UPI,,
+C084,Devendra Khan,Male,41,East,Headphones,Sony WH-1000XM4,1,25000,25-Sep-2025,UPI,4,Better
+C085,Aarti Sanyal,Female,33,West,Laptop,MacBook Air M2,1,120000,25-Sep-2025,Debit Card,5,Excellent Product
+C086,Nitin Jaiswal,Male,37,North,Accessories,HP Keyboard,2,1200,25-Sep-2025,UPI,,
+C087,Chitra Rajbangshi,Male,30,North,Accessories,HP Keyboard,2,1200,26-Sep-2025,UPI,3,Not Satisfied
+C088,Swastika Dey,Female,28,East,Mobile,iphone 15,1,80000,26-Sep-2025,Wallet,,
+C089,Sohana Khan,Female,25,West,Laptop,Dell Inspiron 15,1,55000,26-Sep-2025,Debit Card,5,Good Quality
+C090,Imran Barik,Male,38,North,Mobile,Oppo Reno 10,1,28000,26-Sep-2025,Cash,5,Great Product
+C091,Mousumi Kundu,Female,27,South,Headphones,JBL Tune 760NC,1,55000,26-Sep-2025,UPI,,
+C092,Mihir Bhaidhya,Male,35,East,Mobile,Vivo V27,1,30000,26-Sep-2025,UPI,4,As Expected
+C093,Sana Parveen,Female,24,West,Mobile,Vivo V27,2,30000,26-Sep-2025,Debit Card,5,Good Quality
+C094,Rohan Das,Male,40,North,Laptop,ASUS ROG Strix,1,150000,27-Sep-2025,Debit Card,5,Excellent Product
+C095,Abhishek Prashad,Male,29,South,Accessories,SanDisk 128GB Pendrive,2,800,28-Sep-2025,Cash,,
+C096,Nazia Ali,Female,31,North,Smartwatch,Amazfit GTS 4,1,70000,28-Sep-2025,UPI,4,Better Quality
+C097,Sujoy Manna,Male,26,East,Headphones,Sony WH-1000XM4,1,25000,29-Sep-2025,UPI,5,Excellent Product
+C098,Ritwik Satra,Male,37,West,Mobile,Redmi Note 12 Pro,1,15000,29-Sep-2025,UPI,4,Average Product
+C099,Sneha Cheetri,Female,34,East,Headphones,Boat Rockez 550,1,20000,30-Sep-2025,UPI,5,Good Product
+C100,Supriyo Majhi,Male,30,West,Laptop,Dell Inspiron 15,1,55000,30-Sep-2025,Cash,,
